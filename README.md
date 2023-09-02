@@ -1,5 +1,6 @@
 | datetime                 | url                                                                           | description                                                                 |
 | ------------------------ | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 2023-09-02T15:50:04.883Z | https://artsy.github.io/blog/2018/07/25/Relay-Networking-Deep-Dive/           | The Relay Network Deep Dive                                                 |
 | 2023-09-02T15:50:04.883Z | https://yashmahalwal.medium.com/a-deep-dive-into-the-relay-store-9388affd2c2b | A deep dive into the Relay store                                            |
 | 2023-09-02T15:50:04.883Z | https://www.fast.ai/                                                          | AI/ML courses                                                               |
 | 2023-09-02T15:15:48.787Z | https://github.com/smol-dot/smoldot                                           | Lightweight client for Substrate-based chains, such as Polkadot and Kusama. |
